@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Asignaturas</string>
+
+    <string name="asignatura1">Virtualization and Cloud</string>
+    <string name="descripcion_corta1">The objective is for the student to understand the important role that both virtualization and the cloud have in current software development.</string>
+    <string name="descripcion_larga1">Description:\nThe objective is for the student to understand the important role that both virtualization and the cloud have in current software development. In the same way, the aim is for the student to be able to understand how to create, manage and work with this type of environment on a daily basis. It also intends to showcase the cloud and virtualization tools that are currently most widely used in the software development industry.</string>
+    <string name="creditos1">Credits:\n6</string>
+    <string name="horarios1">Schedule:\nMonday and Thursday from 19.30 to 21.20</string>
+    <string name="profesor1">Professor:\nAlbert Gallego Torres</string>
+
+    <string name="asignatura2">Development of Web Environments</string>
+    <string name="descripcion_corta2">The objective of the course is for student to acquire the necessary knowledge to develop applications using web technologies. HTML, CSS and JavaScript are taught.</string>
+    <string name="descripcion_larga2">Description:\nThe objective of the course is for students to acquire the necessary knowledge to develop applications using web technologies. Those that are taught are HTML, CSS and JavaScript. They are currently the standard recommended by the W3C (World Wide Consortium) and considered the best for web development. The level taught in the subject is high, simulating a real work environment.</string>
+    <string name="creditos2">Credits:\n6</string>
+    <string name="horarios2">Schedule:\nMonday and Wednesday from 17.30 to 19.20</string>
+    <string name="profesor2">Professor:\nDaniel Amo Filva</string>
+
+    <string name="ver_mas">See more</string>
+    <string name="volver">Back</string>
 </resources>
