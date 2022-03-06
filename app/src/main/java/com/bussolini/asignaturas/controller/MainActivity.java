@@ -74,8 +74,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
     }
 
     @Override
@@ -96,12 +94,11 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onPause(Bundle) called");
     }
 
-    /*@Override
+    @Override
     protected void onSaveInstanceState(Bundle savedInstanceState) {
         super.onSaveInstanceState(savedInstanceState);
         Log.i(TAG, "onSaveInstanceState");
-        savedInstanceState.putInt(KEY_INDEX, currentIndex);
-    }*/
+    }
 
     @Override
     protected void onStop() {
